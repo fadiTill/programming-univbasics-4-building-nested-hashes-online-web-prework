@@ -32,7 +32,7 @@ def monopoly_with_second_tier
       },
       "undercategorietwo" => { 
         :categoriea => "undercategorieatwo"
-        :categorieb
+        :categorieb => "undercategoriebtwo"
   }
 
 end
